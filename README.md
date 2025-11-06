@@ -24,7 +24,7 @@ A custom GPT for generating **topper-style descriptive answers** for the :conten
 ---
 
 ## 🔗 Access it here  
-👉 [![Open in ChatGPT](assets/chatgpt-badge.svg)](https://chat.openai.com/g/g-69079678d1908191ad01318a82e15f04-tnpsc-mains-answer-generator)
+👉 [![Open in ChatGPT](https://img.shields.io/badge/Open_in_ChatGPT-00A67E?logo=openai&logoColor=white)](https://chat.openai.com/g/g-69079678d1908191ad01318a82e15f04-tnpsc-mains-answer-generator)
 
 ---
 
